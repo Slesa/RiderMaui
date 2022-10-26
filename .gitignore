@@ -1,0 +1,14 @@
+obj/
+bin/
+.idea/
+cmake-build-release/
+cmake-build-debug/
+build-*/
+.autosave
+src/BonMonitor/lib/
+src/BonMonitor/test/
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+src/build/
+src/app/BonMonitor/BonClient/android/
+src.fs/BonMonitor/BonMonitor/src/Server/var/
